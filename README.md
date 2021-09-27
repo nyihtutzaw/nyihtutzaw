@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi, I'm Nyi Htut Zaw
 
-<!--
-**nyihtutzaw/nyihtutzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a full-stack developer based in Mandalay. I'm developing web-based and mobile applications. Currenlty , working as a full-stack developer for an organiation and freelancer for different kinds of project. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Frameworks
+Laravel
+Nextjs
+Strapi 
+Expressjs
+Vuejs
+Reactjs
+React Native
+Flutter
+
+
+
+
+### Languages
+PHP
+Javascript
+Dart
