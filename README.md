@@ -13,15 +13,18 @@ Reactjs
 React Native
 Flutter
 
-
-
-
 ### Languages
 PHP
 Javascript
 Dart
 
+### Tools and Server
+1. Figma
+2. VPS 
 
-### Portfolio Project
+
+### Portfolio Projects
 1. http://www.kakehashi-education-center.com/
 2. https://play.google.com/store/apps/details?id=com.kakehashi.app
+3. http://ntbrandedcollection.com/
+4. https://play.google.com/store/apps/details?id=com.rcsmm.optimize
