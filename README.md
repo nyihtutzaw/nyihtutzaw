@@ -29,3 +29,5 @@ Dart
 3. https://easyfmm.com/
 4. http://eflogisticsgroup.com/
 5. https://play.google.com/store/apps/details?id=com.rcsmm.optimize
+6. https://play.google.com/store/apps/details?id=com.rcs_mm.heaven_praise.hp
+7. https://apps.apple.com/sa/app/heaven-praise/id1641637196
