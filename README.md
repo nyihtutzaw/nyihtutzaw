@@ -26,5 +26,6 @@ Dart
 ### Portfolio Projects
 1. http://www.kakehashi-education-center.com/
 2. https://play.google.com/store/apps/details?id=com.kakehashi.app
-3. http://ntbrandedcollection.com/
-4. https://play.google.com/store/apps/details?id=com.rcsmm.optimize
+3. https://easyfmm.com/
+4. http://eflogisticsgroup.com/
+5. https://play.google.com/store/apps/details?id=com.rcsmm.optimize
