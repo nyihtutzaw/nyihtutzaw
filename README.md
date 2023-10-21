@@ -6,21 +6,29 @@ I'm a full-stack developer based in Mandalay. I'm developing web-based and mobil
 ### Frameworks
 Laravel
 Nextjs
+Nestjs
 Strapi 
 Expressjs
 Vuejs
 Reactjs
 React Native
 Flutter
+Magento
+Go/ Gin
+Asp.net
 
 ### Languages
 PHP
 Javascript
 Dart
+Go
+C#
 
 ### Tools and Server
 1. Figma
-2. VPS 
+2. VPS
+3. Docker
+4. Github Actions
 
 
 ### Portfolio Projects
@@ -31,3 +39,4 @@ Dart
 5. https://play.google.com/store/apps/details?id=com.rcsmm.optimize
 6. https://play.google.com/store/apps/details?id=com.rcs_mm.heaven_praise.hp
 7. https://apps.apple.com/sa/app/heaven-praise/id1641637196
+8. https://play.google.com/store/apps/details?id=com.rcs.goal92
