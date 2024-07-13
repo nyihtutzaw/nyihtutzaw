@@ -32,11 +32,11 @@ C#
 
 
 ### Portfolio Projects
-1. http://www.kakehashi-education-center.com/
-2. https://play.google.com/store/apps/details?id=com.kakehashi.app
+1. https://play.google.com/store/apps/details?id=com.kakehashi.app
 3. https://easyfmm.com/
 4. http://eflogisticsgroup.com/
 5. https://play.google.com/store/apps/details?id=com.rcsmm.optimize
 6. https://play.google.com/store/apps/details?id=com.rcs_mm.heaven_praise.hp
-7. https://apps.apple.com/sa/app/heaven-praise/id1641637196
-8. https://play.google.com/store/apps/details?id=com.rcs.goal92
+7. https://play.google.com/store/apps/details?id=com.rcs.goal92
+8. kindcare.com
+   
